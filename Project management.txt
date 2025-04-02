@@ -1,0 +1,46 @@
+Project & Payment Management System - Features & Roles (Bala)
+---
+
+- Roles:
+
+Admin: Full control over projects, clients, and payments.
+Project Manager: Manages projects and updates payment status.
+
+---
+
+Core Features:
+
+1, Client Management
+
+Add, edit, and delete client details (Name, Contact, Email, etc.).
+View client payment history.
+
+2, Team member  Management
+
+Add, edit, and delete client details (Name, Contact, Email, etc.).
+View team member payment history.
+
+3, Project Management
+
+Create, update, and delete projects.
+Assign projects to clients.
+Track project status (Ongoing, Completed, On Hold).
+
+4, Payment Tracking
+
+Record payments received from clients.
+Calculate pending payments.
+Generate reports for paid & pending amounts.
+
+5, Dashboard & Reports
+
+View total projects, pending payments, and client-wise reports.
+Generate invoices or receipts.
+
+---
+
+Tech Stack:
+
+Frontend: React (for web-based system)
+
+Backend: Flask (Python) + MySQL
